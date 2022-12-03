@@ -1,0 +1,1 @@
+module.exports = require("fs").readFileSync("./input.txt", { encoding: "utf-8" });
